@@ -37,7 +37,7 @@
     },
     "sourceCodeRepositoryURL": {
       "type": "string",
-      "defaultValue": "https://github.com/JeremyLikness/serverless-url-shortener",
+      "defaultValue": "https://github.com/amadas-debug/serverless-url-shortener",
       "metadata": {
         "description": "Source code repository URL"
       }
